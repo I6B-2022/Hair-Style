@@ -9,3 +9,6 @@ Integrantes del equipo:
 - Diana Laura Ramírez García
 - Carlos Peralta Cruz
 - Brandon Jesús Vásquez Nicolás
+
+"Pagina en host"
+https://hair-style-b2867.web.app/
