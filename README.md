@@ -12,4 +12,3 @@ Integrantes del equipo:
 
 "Pagina en host"
 https://hair-style-b2867.web.app/
-![i](https://user-images.githubusercontent.com/93799187/160310347-119667a9-afdc-4516-946b-72e15c7caf4e.png)
