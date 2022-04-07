@@ -1,6 +1,6 @@
 Hair Style
 
-Instituto tecnologico del valle de Oaxaca
+Instituto Tecnológico del Valle de Oaxaca
 
 Materia: Programación en ambiente servidor
 
