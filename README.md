@@ -1,14 +1,18 @@
 # Hair-Style
-Nombre de la pagina: Hair Style
+![logo-itvo](https://user-images.githubusercontent.com/98989631/162100576-1959f8e5-6ae6-4c7f-98e5-c86671de47b9.png)
 
-Materia: Programación en ambiente servidor
+INSTITUTO TECNOLÓGICO DEL VALLE DE OAXACA	
 
-Integrantes del equipo:
+Repositorio de Practica de hosting web Hair-Style
 
-- Isis Dahl Merino García
-- Diana Laura Ramírez García
-- Carlos Peralta Cruz
-- Brandon Jesús Vásquez Nicolás
+Materia: Programación Ambiente Cliente Servidor
 
-"Pagina en host"
-https://hair-style-b2867.web.app/
+- MERINO GARCÍA ISIS DAHL
+- RAMÍREZ GARCÍA DIANA LAURA
+- VÁSQUEZ NICOLÁS BRANDON JESÚS
+- PERALTA CRUZ CARLOS
+
+Link de la pagina:https://hair-style-b2867.web.app/
+
+![image](https://user-images.githubusercontent.com/98989631/162103383-1a374be0-74f0-4731-8680-84867fde233b.png)
+
